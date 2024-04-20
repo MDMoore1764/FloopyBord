@@ -1,0 +1,5 @@
+#display {
+	box-sizing: border-box;
+	position: relative;
+	border: thin solid white;
+}
